@@ -1,0 +1,26 @@
+{
+    "656da44f938a8": {
+        "username": "asd",
+        "password": "$2y$10$4Q4nS.kwtmpUIXGAoRDSGeipHcqEQpcBLW6kTMo\/e6eLpstd4il3m",
+        "roles": [
+            "user"
+        ],
+        "id": "656da44f938a8"
+    },
+    "656dacb53a506": {
+        "username": "asd2",
+        "password": "$2y$10$h2.N2xtUvmYPN9MouVhWS..DLl\/6KpXpEoExCarGgBfAGoP7oBbga",
+        "roles": [
+            "user"
+        ],
+        "id": "656dacb53a506"
+    },
+    "6576e3c517bd3": {
+        "username": "asd3",
+        "password": "$2y$10$wavAClP40Qtp.SOvpjValew3LRLqkIoVl0sMHSCKjr8oH8kOVJEZ6",
+        "roles": [
+            "user"
+        ],
+        "id": "6576e3c517bd3"
+    }
+}
